@@ -1,0 +1,16 @@
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.exe
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.deps.json
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.runtimeconfig.json
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.runtimeconfig.dev.json
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.dll
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\ref\06.MiddleCharacters.dll
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\bin\Debug\net5.0\06.MiddleCharacters.pdb
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.csproj.AssemblyReference.cache
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.AssemblyInfo.cs
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.dll
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\ref\06.MiddleCharacters.dll
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.pdb
+D:\VS Projects\SmallestOfThreeNumbers\06.MiddleCharacters\obj\Debug\net5.0\06.MiddleCharacters.genruntimeconfig.cache

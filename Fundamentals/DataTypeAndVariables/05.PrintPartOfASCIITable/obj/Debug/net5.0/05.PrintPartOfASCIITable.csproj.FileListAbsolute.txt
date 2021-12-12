@@ -1,0 +1,15 @@
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.exe
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.deps.json
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.dll
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\ref\05.PrintPartOfASCIITable.dll
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.pdb
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.dll
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\ref\05.PrintPartOfASCIITable.dll
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.pdb
+C:\Users\Shamana\source\repos\Exercise- 01.IntegerOperations\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.exe
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.deps.json
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.runtimeconfig.json
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.runtimeconfig.dev.json
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.dll
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\ref\02.aMinerTask.dll
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\bin\Debug\net5.0\02.aMinerTask.pdb
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.csproj.AssemblyReference.cache
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.AssemblyInfoInputs.cache
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.AssemblyInfo.cs
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.dll
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\ref\02.aMinerTask.dll
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.pdb
+D:\VS Projects\01.CountCharsInAString\02.aMinerTask\obj\Debug\net5.0\02.aMinerTask.genruntimeconfig.cache

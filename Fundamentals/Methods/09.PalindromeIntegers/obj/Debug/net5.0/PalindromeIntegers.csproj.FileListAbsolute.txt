@@ -1,0 +1,15 @@
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.exe
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.deps.json
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.json
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.dev.json
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.dll
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\ref\PalindromeIntegers.dll
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.pdb
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfo.cs
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.dll
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\ref\PalindromeIntegers.dll
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.pdb
+D:\VS Projects\SmallestOfThreeNumbers\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.exe
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.deps.json
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.json
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.runtimeconfig.dev.json
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.dll
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\ref\02.VowelsCount.dll
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\bin\Debug\net5.0\02.VowelsCount.pdb
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.AssemblyInfo.cs
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.dll
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\ref\02.VowelsCount.dll
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.pdb
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.genruntimeconfig.cache
+D:\VS Projects\SmallestOfThreeNumbers\02.VowelsCount\obj\Debug\net5.0\02.VowelsCount.csproj.AssemblyReference.cache

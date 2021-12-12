@@ -1,0 +1,16 @@
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.exe
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.deps.json
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.runtimeconfig.json
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.dll
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\ref\08. DivisibleBy3.dll
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\bin\Debug\net5.0\08. DivisibleBy3.pdb
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.csproj.AssemblyReference.cache
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.dll
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\ref\08. DivisibleBy3.dll
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.pdb
+C:\Users\Shamana\source\repos\02.Grades\08. DivisibleBy3\obj\Debug\net5.0\08. DivisibleBy3.genruntimeconfig.cache

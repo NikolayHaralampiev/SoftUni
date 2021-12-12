@@ -1,0 +1,15 @@
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.exe
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.deps.json
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.json
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.runtimeconfig.dev.json
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.dll
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\ref\05.MultiplyBigNumber.dll
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\bin\Debug\net5.0\05.MultiplyBigNumber.pdb
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.AssemblyInfo.cs
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.dll
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\ref\05.MultiplyBigNumber.dll
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.pdb
+D:\VS Projects\01.ValidUsernames\05.MultiplyBigNumber\obj\Debug\net5.0\05.MultiplyBigNumber.genruntimeconfig.cache
