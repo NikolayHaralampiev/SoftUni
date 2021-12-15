@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\05.Time+15min.exe
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\05.Time+15min.deps.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\05.Time+15min.runtimeconfig.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\05.Time+15min.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\ref\05.Time+15min.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\bin\Debug\net6.0\05.Time+15min.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.AssemblyInfo.cs
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\ref\05.Time+15min.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Basic\01.SumOfSeconds\05.Time+15min\obj\Debug\net6.0\05.Time+15min.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\04.NewHome.exe
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\04.NewHome.deps.json
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\04.NewHome.runtimeconfig.json
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\04.NewHome.dll
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\ref\04.NewHome.dll
+D:\VS Projects\04.NewHome\bin\Debug\net6.0\04.NewHome.pdb
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.csproj.AssemblyReference.cache
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.AssemblyInfoInputs.cache
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.AssemblyInfo.cs
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.csproj.CoreCompileInputs.cache
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.dll
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\ref\04.NewHome.dll
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.pdb
+D:\VS Projects\04.NewHome\obj\Debug\net6.0\04.NewHome.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\03.SummerOutfit.exe
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\03.SummerOutfit.deps.json
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\03.SummerOutfit.runtimeconfig.json
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\03.SummerOutfit.dll
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\ref\03.SummerOutfit.dll
+D:\VS Projects\03.SummerOutfit\bin\Debug\net6.0\03.SummerOutfit.pdb
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.csproj.AssemblyReference.cache
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.AssemblyInfoInputs.cache
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.AssemblyInfo.cs
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.dll
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\ref\03.SummerOutfit.dll
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.pdb
+D:\VS Projects\03.SummerOutfit\obj\Debug\net6.0\03.SummerOutfit.genruntimeconfig.cache
