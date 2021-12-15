@@ -1,0 +1,16 @@
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.exe
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.deps.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\ref\05.SpecialNumbers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.pdb
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\ref\05.SpecialNumbers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.pdb
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.genruntimeconfig.cache

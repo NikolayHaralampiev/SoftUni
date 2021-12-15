@@ -1,0 +1,15 @@
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.exe
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.deps.json
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.runtimeconfig.json
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.runtimeconfig.dev.json
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.dll
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\ref\02.DegustationParty.dll
+D:\VS Projects\01.StringGame\02.DegustationParty\bin\Debug\net5.0\02.DegustationParty.pdb
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.AssemblyInfoInputs.cache
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.AssemblyInfo.cs
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.dll
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\ref\02.DegustationParty.dll
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.pdb
+D:\VS Projects\01.StringGame\02.DegustationParty\obj\Debug\net5.0\02.DegustationParty.genruntimeconfig.cache

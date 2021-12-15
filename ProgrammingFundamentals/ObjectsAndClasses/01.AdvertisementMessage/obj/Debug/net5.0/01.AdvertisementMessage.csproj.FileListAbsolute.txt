@@ -1,0 +1,16 @@
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.exe
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.deps.json
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.json
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.runtimeconfig.dev.json
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.dll
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\ref\01.AdvertisementMessage.dll
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\bin\Debug\net5.0\01.AdvertisementMessage.pdb
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.AssemblyReference.cache
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.AssemblyInfo.cs
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.dll
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\ref\01.AdvertisementMessage.dll
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.pdb
+D:\VS Projects\01.AdvertisementMessage\01.AdvertisementMessage\obj\Debug\net5.0\01.AdvertisementMessage.genruntimeconfig.cache

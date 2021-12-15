@@ -1,0 +1,15 @@
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.exe
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.deps.json
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.runtimeconfig.json
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.runtimeconfig.dev.json
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.dll
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\ref\Students.dll
+D:\VS Projects\01.AdvertisementMessage\Students\bin\Debug\net5.0\Students.pdb
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.AssemblyInfoInputs.cache
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.AssemblyInfo.cs
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.dll
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\ref\Students.dll
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.pdb
+D:\VS Projects\01.AdvertisementMessage\Students\obj\Debug\net5.0\Students.genruntimeconfig.cache

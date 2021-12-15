@@ -1,0 +1,16 @@
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.exe
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.deps.json
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.runtimeconfig.json
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.dll
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\ref\04.Back in 30 Minutes.dll
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\bin\Debug\net5.0\04.Back in 30 Minutes.pdb
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.csproj.AssemblyReference.cache
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.dll
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\ref\04.Back in 30 Minutes.dll
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.pdb
+C:\Users\Shamana\source\repos\02.Grades\04.Back in 30 Minutes\obj\Debug\net5.0\04.Back in 30 Minutes.genruntimeconfig.cache

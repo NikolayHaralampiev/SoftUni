@@ -1,0 +1,15 @@
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.exe
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.deps.json
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.runtimeconfig.json
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.dll
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\ref\03.PassedOrFail.dll
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\bin\Debug\net5.0\03.PassedOrFail.pdb
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.dll
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\ref\03.PassedOrFail.dll
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.pdb
+C:\Users\Shamana\source\repos\02.Grades\03.PassedOrFail\obj\Debug\net5.0\03.PassedOrFail.genruntimeconfig.cache
