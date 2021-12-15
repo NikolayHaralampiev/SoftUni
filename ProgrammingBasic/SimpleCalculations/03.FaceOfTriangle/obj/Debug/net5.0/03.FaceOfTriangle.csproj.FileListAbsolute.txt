@@ -1,0 +1,16 @@
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.exe
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.deps.json
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.runtimeconfig.json
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.runtimeconfig.dev.json
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.dll
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\ref\03.FaceOfTriangle.dll
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\bin\Debug\net5.0\03.FaceOfTriangle.pdb
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.csproj.AssemblyReference.cache
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.AssemblyInfoInputs.cache
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.AssemblyInfo.cs
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.csproj.CoreCompileInputs.cache
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.dll
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\ref\03.FaceOfTriangle.dll
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.pdb
+D:\VS Projects\SimpleCalculations\03.FaceOfTriangle\obj\Debug\net5.0\03.FaceOfTriangle.genruntimeconfig.cache
