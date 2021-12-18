@@ -1,0 +1,15 @@
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\01.NumbersTo1000.exe
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\01.NumbersTo1000.deps.json
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\01.NumbersTo1000.runtimeconfig.json
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\01.NumbersTo1000.dll
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\ref\01.NumbersTo1000.dll
+D:\VS Projects\01.NumbersTo1000\bin\Debug\net6.0\01.NumbersTo1000.pdb
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.csproj.AssemblyReference.cache
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.AssemblyInfoInputs.cache
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.AssemblyInfo.cs
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.csproj.CoreCompileInputs.cache
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.dll
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\ref\01.NumbersTo1000.dll
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.pdb
+D:\VS Projects\01.NumbersTo1000\obj\Debug\net6.0\01.NumbersTo1000.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\02.ElementEqualToTheSum.exe
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\02.ElementEqualToTheSum.deps.json
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\02.ElementEqualToTheSum.runtimeconfig.json
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\02.ElementEqualToTheSum.dll
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\ref\02.ElementEqualToTheSum.dll
+D:\VS Projects\02.ElementEqualToTheSum\bin\Debug\net6.0\02.ElementEqualToTheSum.pdb
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.csproj.AssemblyReference.cache
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.AssemblyInfoInputs.cache
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.AssemblyInfo.cs
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.csproj.CoreCompileInputs.cache
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.dll
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\ref\02.ElementEqualToTheSum.dll
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.pdb
+D:\VS Projects\02.ElementEqualToTheSum\obj\Debug\net6.0\02.ElementEqualToTheSum.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.csproj.AssemblyReference.cache
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.AssemblyInfoInputs.cache
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.AssemblyInfo.cs
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.csproj.CoreCompileInputs.cache
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\03.EvenAndOdd.exe
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\03.EvenAndOdd.deps.json
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\03.EvenAndOdd.runtimeconfig.json
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\03.EvenAndOdd.dll
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\ref\03.EvenAndOdd.dll
+D:\VS Projects\03.EvenAndOdd\bin\Debug\net6.0\03.EvenAndOdd.pdb
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.dll
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\ref\03.EvenAndOdd.dll
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.pdb
+D:\VS Projects\03.EvenAndOdd\obj\Debug\net6.0\03.EvenAndOdd.genruntimeconfig.cache
