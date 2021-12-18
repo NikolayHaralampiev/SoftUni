@@ -1,0 +1,15 @@
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\OldLibrary.exe
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\OldLibrary.deps.json
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\OldLibrary.runtimeconfig.json
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\OldLibrary.dll
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\ref\OldLibrary.dll
+D:\VS Projects\WhileLoop\OldLibrary\bin\Debug\net6.0\OldLibrary.pdb
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.csproj.AssemblyReference.cache
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.AssemblyInfoInputs.cache
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.AssemblyInfo.cs
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.csproj.CoreCompileInputs.cache
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.dll
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\ref\OldLibrary.dll
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.pdb
+D:\VS Projects\WhileLoop\OldLibrary\obj\Debug\net6.0\OldLibrary.genruntimeconfig.cache
