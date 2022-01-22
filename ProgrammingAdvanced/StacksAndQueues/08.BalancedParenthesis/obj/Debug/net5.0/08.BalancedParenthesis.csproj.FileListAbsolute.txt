@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.exe
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.deps.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.runtimeconfig.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\bin\Debug\net5.0\08.BalancedParenthesis.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.AssemblyInfo.cs
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\refint\08.BalancedParenthesis.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\08.BalancedParenthesis.genruntimeconfig.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\08.BalancedParenthesis\obj\Debug\net5.0\ref\08.BalancedParenthesis.dll

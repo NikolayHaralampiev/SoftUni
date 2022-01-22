@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.exe
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.deps.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.runtimeconfig.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\bin\Debug\net5.0\02.BasicQueueOperations.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\refint\02.BasicQueueOperations.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\02.BasicQueueOperations.genruntimeconfig.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\02.BasicQueueOperations\obj\Debug\net5.0\ref\02.BasicQueueOperations.dll
