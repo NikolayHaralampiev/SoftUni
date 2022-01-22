@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.AssemblyInfo.cs
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.exe
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.deps.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.runtimeconfig.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\refint\07.TruckTour.dll
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.pdb
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.genruntimeconfig.cache
+C:\Users\nikol\Desktop\VsProjects\SoftUni\Advanced - Exersice\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\ref\07.TruckTour.dll
