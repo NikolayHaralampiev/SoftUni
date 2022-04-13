@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.exe
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.deps.json
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.runtimeconfig.json
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.dll
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\bin\Debug\net5.0\05.DanceHall.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.dll
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\refint\05.DanceHall.dll
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\05.DanceHall.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.USD to BGN\05.DanceHall\obj\Debug\net5.0\ref\05.DanceHall.dll
