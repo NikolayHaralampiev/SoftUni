@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.exe
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.deps.json
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.runtimeconfig.json
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.dll
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\bin\Debug\net5.0\SewingWorkshop.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.dll
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\refint\SewingWorkshop.dll
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\SewingWorkshop.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.USD to BGN\SewingWorkshop\obj\Debug\net5.0\ref\SewingWorkshop.dll
