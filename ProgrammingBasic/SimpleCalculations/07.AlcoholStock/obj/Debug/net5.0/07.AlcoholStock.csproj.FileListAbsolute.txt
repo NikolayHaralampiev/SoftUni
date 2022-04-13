@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.exe
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.deps.json
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.runtimeconfig.json
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.dll
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\bin\Debug\net5.0\07.AlcoholStock.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.dll
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\refint\07.AlcoholStock.dll
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.pdb
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\07.AlcoholStock.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.USD to BGN\07.AlcoholStock\obj\Debug\net5.0\ref\07.AlcoholStock.dll
