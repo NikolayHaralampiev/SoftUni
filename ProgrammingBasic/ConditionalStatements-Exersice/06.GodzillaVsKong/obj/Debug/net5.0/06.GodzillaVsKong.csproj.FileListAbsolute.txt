@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\bin\Debug\net5.0\06.GodzillaVsKong.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\refint\06.GodzillaVsKong.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\06.GodzillaVsKong.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\06.GodzillaVsKong\obj\Debug\net5.0\ref\06.GodzillaVsKong.dll

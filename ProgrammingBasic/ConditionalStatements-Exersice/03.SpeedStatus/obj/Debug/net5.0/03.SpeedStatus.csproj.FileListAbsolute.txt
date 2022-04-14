@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\bin\Debug\net5.0\03.SpeedStatus.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\refint\03.SpeedStatus.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\03.SpeedStatus.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\03.SpeedStatus\obj\Debug\net5.0\ref\03.SpeedStatus.dll

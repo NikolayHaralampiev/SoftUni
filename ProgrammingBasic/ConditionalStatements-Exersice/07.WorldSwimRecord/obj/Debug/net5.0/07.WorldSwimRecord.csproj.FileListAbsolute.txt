@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\bin\Debug\net5.0\07.WorldSwimRecord.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\refint\07.WorldSwimRecord.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\07.WorldSwimRecord.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\07.WorldSwimRecord\obj\Debug\net5.0\ref\07.WorldSwimRecord.dll

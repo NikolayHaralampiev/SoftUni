@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\bin\Debug\net5.0\02.BonusPoints.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\refint\02.BonusPoints.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\02.BonusPoints.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\02.BonusPoints\obj\Debug\net5.0\ref\02.BonusPoints.dll

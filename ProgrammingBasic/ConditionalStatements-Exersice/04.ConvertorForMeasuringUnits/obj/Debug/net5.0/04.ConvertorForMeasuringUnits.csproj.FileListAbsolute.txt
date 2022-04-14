@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\bin\Debug\net5.0\04.ConvertorForMeasuringUnits.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\refint\04.ConvertorForMeasuringUnits.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\04.ConvertorForMeasuringUnits.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\04.ConvertorForMeasuringUnits\obj\Debug\net5.0\ref\04.ConvertorForMeasuringUnits.dll

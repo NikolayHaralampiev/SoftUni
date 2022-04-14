@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\bin\Debug\net5.0\05.Time+15minutes.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\refint\05.Time+15minutes.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\05.Time+15minutes.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\05.Time+15minutes\obj\Debug\net5.0\ref\05.Time+15minutes.dll
