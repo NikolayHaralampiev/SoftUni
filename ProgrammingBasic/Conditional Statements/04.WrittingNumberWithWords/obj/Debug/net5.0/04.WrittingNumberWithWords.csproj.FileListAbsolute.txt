@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.exe
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.deps.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.runtimeconfig.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\bin\Debug\net5.0\04.WrittingNumberWithWords.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\refint\04.WrittingNumberWithWords.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\04.WrittingNumberWithWords.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\04.WrittingNumberWithWords\obj\Debug\net5.0\ref\04.WrittingNumberWithWords.dll

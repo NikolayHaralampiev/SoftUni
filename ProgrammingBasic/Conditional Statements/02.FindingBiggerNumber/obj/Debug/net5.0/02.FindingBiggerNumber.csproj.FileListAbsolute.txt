@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.exe
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.deps.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.runtimeconfig.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\bin\Debug\net5.0\02.FindingBiggerNumber.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\refint\02.FindingBiggerNumber.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\02.FindingBiggerNumber.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\02.FindingBiggerNumber\obj\Debug\net5.0\ref\02.FindingBiggerNumber.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.exe
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.deps.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.runtimeconfig.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\bin\Debug\net5.0\FaceOfFigures.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\refint\FaceOfFigures.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\FaceOfFigures.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\FaceOfFigures\obj\Debug\net5.0\ref\FaceOfFigures.dll

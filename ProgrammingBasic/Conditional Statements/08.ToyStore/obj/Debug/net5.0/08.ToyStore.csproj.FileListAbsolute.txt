@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.exe
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.deps.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.runtimeconfig.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\bin\Debug\net5.0\08.ToyStore.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\refint\08.ToyStore.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\08.ToyStore.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\08.ToyStore\obj\Debug\net5.0\ref\08.ToyStore.dll
