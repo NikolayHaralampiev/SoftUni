@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.exe
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.deps.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.runtimeconfig.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\bin\Debug\net5.0\01.SumOfSeconds.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\refint\01.SumOfSeconds.dll
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.pdb
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\01.SumOfSeconds.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.SumOfSeconds\Exersice-ConditionalStatements\obj\Debug\net5.0\ref\01.SumOfSeconds.dll
