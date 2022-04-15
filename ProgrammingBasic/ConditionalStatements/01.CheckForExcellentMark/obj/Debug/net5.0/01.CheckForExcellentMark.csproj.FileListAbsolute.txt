@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.exe
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.deps.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.runtimeconfig.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\bin\Debug\net5.0\01.CheckForExcellentMark.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\refint\01.CheckForExcellentMark.dll
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.pdb
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\01.CheckForExcellentMark.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.CheckForExcellentMark\ConditionalStatements-Exercise\obj\Debug\net5.0\ref\01.CheckForExcellentMark.dll
