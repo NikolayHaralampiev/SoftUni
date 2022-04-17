@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\bin\Debug\net5.0\01.DayOfTheWeek.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\refint\01.DayOfTheWeek.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\01.DayOfTheWeek.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\01.DayOfTheWeek\obj\Debug\net5.0\ref\01.DayOfTheWeek.dll

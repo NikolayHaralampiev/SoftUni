@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\bin\Debug\net5.0\02.ClassAnimal.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\refint\02.ClassAnimal.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\02.ClassAnimal.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\02.ClassAnimal\obj\Debug\net5.0\ref\02.ClassAnimal.dll

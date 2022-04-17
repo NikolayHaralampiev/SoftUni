@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\bin\Debug\net5.0\03.PersonalTitles.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\refint\03.PersonalTitles.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\03.PersonalTitles.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\03.AddressByAgeAndSex\obj\Debug\net5.0\ref\03.PersonalTitles.dll

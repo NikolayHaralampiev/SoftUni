@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\bin\Debug\net5.0\05.NumberInInterval.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\refint\05.NumberInInterval.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\05.NumberInInterval.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\05.NumberInInterval\obj\Debug\net5.0\ref\05.NumberInInterval.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\bin\Debug\net5.0\09.TradeCommissions.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\refint\09.TradeCommissions.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\09.TradeCommissions.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\09.TradeCommissions\obj\Debug\net5.0\ref\09.TradeCommissions.dll

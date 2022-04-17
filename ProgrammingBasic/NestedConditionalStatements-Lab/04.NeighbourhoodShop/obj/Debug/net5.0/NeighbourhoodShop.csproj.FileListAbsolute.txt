@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\bin\Debug\net5.0\NeighbourhoodShop.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\refint\NeighbourhoodShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\NeighbourhoodShop.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\NeighbourhoodShop\obj\Debug\net5.0\ref\NeighbourhoodShop.dll

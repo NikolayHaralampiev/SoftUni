@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\bin\Debug\net5.0\08.FruitShop.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\refint\08.FruitShop.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\08.FruitShop.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\08.FruitShop\obj\Debug\net5.0\ref\08.FruitShop.dll

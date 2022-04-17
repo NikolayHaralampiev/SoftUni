@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\bin\Debug\net5.0\07.InvaidNumber.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\refint\07.InvaidNumber.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\07.InvaidNumber.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\07.InvaidNumber\obj\Debug\net5.0\ref\07.InvaidNumber.dll

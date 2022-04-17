@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\bin\Debug\net5.0\06.FruitOrVegetable.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\refint\06.FruitOrVegetable.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\06.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\06.FruitOrVegetable\obj\Debug\net5.0\ref\06.FruitOrVegetable.dll

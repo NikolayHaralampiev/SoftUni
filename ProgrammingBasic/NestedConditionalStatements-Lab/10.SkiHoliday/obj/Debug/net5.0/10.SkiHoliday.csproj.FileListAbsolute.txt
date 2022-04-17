@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.exe
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.deps.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\bin\Debug\net5.0\10.SkiHoliday.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\refint\10.SkiHoliday.dll
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.pdb
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\10.SkiHoliday.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedConditionalStatements-Lab\10.SkiHoliday\obj\Debug\net5.0\ref\10.SkiHoliday.dll
