@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.exe
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.dll
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\bin\Debug\net5.0\07.LandscapingOfYards.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.dll
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\refint\07.LandscapingOfYards.dll
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\07.LandscapingOfYards.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\07.LandscapingOfYards\obj\Debug\net5.0\ref\07.LandscapingOfYards.dll

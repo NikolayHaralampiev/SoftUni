@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj": {}
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj": {
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj",
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj",
         "projectName": "05.StreamOfCharacters",
-        "projectPath": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\05.StreamOfCharacters\\05.StreamOfCharacters.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\05.StreamOfCharacters\\obj\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\05.StreamOfCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",

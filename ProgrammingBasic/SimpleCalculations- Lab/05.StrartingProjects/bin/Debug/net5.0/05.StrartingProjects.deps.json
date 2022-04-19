@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "05.StrartingProjects/1.0.0": {
+        "runtime": {
+          "05.StrartingProjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.StrartingProjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

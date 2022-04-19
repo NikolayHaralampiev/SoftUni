@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.exe
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.dll
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\bin\Debug\net5.0\03.SideOfSquare.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.dll
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\refint\03.SideOfSquare.dll
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\03.SideOfSquare.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\03.SideOfSquare\obj\Debug\net5.0\ref\03.SideOfSquare.dll

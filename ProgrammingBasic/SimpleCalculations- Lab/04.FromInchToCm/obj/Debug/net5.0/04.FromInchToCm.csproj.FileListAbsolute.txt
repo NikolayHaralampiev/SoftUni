@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.exe
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.dll
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\bin\Debug\net5.0\04.FromInchToCm.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.dll
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\refint\04.FromInchToCm.dll
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\04.FromInchToCm.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\04.FromInchToCm\obj\Debug\net5.0\ref\04.FromInchToCm.dll

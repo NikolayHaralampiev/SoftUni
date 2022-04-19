@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\06.SumOfVowels\\06.SumOfVowels.csproj": {}
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\06.SumOfVowels\\06.SumOfVowels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\06.SumOfVowels\\06.SumOfVowels.csproj": {
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\06.SumOfVowels\\06.SumOfVowels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\06.SumOfVowels\\06.SumOfVowels.csproj",
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\06.SumOfVowels\\06.SumOfVowels.csproj",
         "projectName": "06.SumOfVowels",
-        "projectPath": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\06.SumOfVowels\\06.SumOfVowels.csproj",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\06.SumOfVowels\\06.SumOfVowels.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikol\\source\\repos\\ForLoops-Lab\\06.SumOfVowels\\obj\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingBasic\\ForLoop - Lab\\06.SumOfVowels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",

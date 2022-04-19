@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.exe
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.dll
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\bin\Debug\net5.0\01.GreetingByName.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.dll
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\refint\01.GreetingByName.dll
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\01.GreetingByName.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\01.GreetingByName\obj\Debug\net5.0\ref\01.GreetingByName.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.exe
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.dll
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\bin\Debug\net5.0\06.PetShop.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.dll
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\refint\06.PetShop.dll
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\06.PetShop.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\06.PetShop\obj\Debug\net5.0\ref\06.PetShop.dll

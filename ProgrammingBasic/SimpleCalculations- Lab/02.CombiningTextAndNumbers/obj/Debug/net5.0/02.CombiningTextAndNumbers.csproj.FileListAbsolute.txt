@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.exe
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.deps.json
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.runtimeconfig.json
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.dll
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\bin\Debug\net5.0\02.CombiningTextAndNumbers.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.AssemblyInfo.cs
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.dll
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\refint\02.CombiningTextAndNumbers.dll
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.pdb
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\02.CombiningTextAndNumbers.genruntimeconfig.cache
+C:\Users\nikol\source\repos\01.GreetingByName\02.CombiningTextAndNumbers\obj\Debug\net5.0\ref\02.CombiningTextAndNumbers.dll
