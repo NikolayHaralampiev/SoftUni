@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.exe
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.deps.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\bin\Debug\net5.0\02.ExamPreparation.pdb
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\refint\02.ExamPreparation.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.pdb
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\02.ExamPreparation.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\02.ExamPreparation\obj\Debug\net5.0\ref\02.ExamPreparation.dll

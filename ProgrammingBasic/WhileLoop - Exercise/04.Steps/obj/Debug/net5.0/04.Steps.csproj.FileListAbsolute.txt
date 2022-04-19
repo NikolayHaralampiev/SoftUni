@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.exe
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.deps.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\bin\Debug\net5.0\04.Steps.pdb
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\refint\04.Steps.dll
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.pdb
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\04.Steps.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop - Exercise\04.Steps\obj\Debug\net5.0\ref\04.Steps.dll
