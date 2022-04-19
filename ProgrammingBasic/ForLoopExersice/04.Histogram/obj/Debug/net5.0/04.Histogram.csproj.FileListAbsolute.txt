@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.exe
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.deps.json
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.dll
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\bin\Debug\net5.0\04.Histogram.pdb
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.dll
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\refint\04.Histogram.dll
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.pdb
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\04.Histogram.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoopExercise\04.Histogram\obj\Debug\net5.0\ref\04.Histogram.dll

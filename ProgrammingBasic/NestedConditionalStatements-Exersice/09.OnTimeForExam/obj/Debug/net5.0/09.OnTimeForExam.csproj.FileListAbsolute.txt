@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.exe
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.deps.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\bin\Debug\net5.0\09.OnTimeForExam.pdb
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\refint\09.OnTimeForExam.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.pdb
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\09.OnTimeForExam.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\09.OnTimeForExam\obj\Debug\net5.0\ref\09.OnTimeForExam.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.exe
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.deps.json
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.dll
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\bin\Debug\net5.0\05.DivisionWithoutRemainder.pdb
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.dll
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\refint\05.DivisionWithoutRemainder.dll
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.pdb
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\05.DivisionWithoutRemainder.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoopExercise\05.DivisionWithoutRemainder\obj\Debug\net5.0\ref\05.DivisionWithoutRemainder.dll

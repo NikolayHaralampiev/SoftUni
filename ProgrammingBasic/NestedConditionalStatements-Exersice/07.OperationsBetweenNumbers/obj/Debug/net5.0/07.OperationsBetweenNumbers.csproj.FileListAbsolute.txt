@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.exe
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.deps.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\bin\Debug\net5.0\07.OperationsBetweenNumbers.pdb
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\refint\07.OperationsBetweenNumbers.dll
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.pdb
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\07.OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\nikol\source\repos\NestedContidionalStatements - Exercise\02.OperationsBetweenNumbers\obj\Debug\net5.0\ref\07.OperationsBetweenNumbers.dll
