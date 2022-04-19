@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\bin\Debug\net5.0\01.NumbersFrom1To100.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\refint\01.NumbersFrom1To100.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\01.NumbersFrom1To100.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\01.NumbersFrom1To100\obj\Debug\net5.0\ref\01.NumbersFrom1To100.dll

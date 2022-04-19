@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\bin\Debug\net5.0\02.NumbersFromN.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\refint\02.NumbersFromN.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\02.NumbersFromN.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\02.NumbersFromN\obj\Debug\net5.0\ref\02.NumbersFromN.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\bin\Debug\net5.0\11.SmartLily.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\refint\11.SmartLily.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\11.SmartLily.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\11.SmartLily\obj\Debug\net5.0\ref\11.SmartLily.dll

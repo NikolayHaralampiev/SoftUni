@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\bin\Debug\net5.0\05.StreamOfCharacters.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\refint\05.StreamOfCharacters.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\05.StreamOfCharacters.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\05.StreamOfCharacters\obj\Debug\net5.0\ref\05.StreamOfCharacters.dll

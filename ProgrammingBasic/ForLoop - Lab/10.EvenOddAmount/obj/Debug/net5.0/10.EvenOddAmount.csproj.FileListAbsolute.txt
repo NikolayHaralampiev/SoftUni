@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\bin\Debug\net5.0\10.EvenOddAmount.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\refint\10.EvenOddAmount.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\10.EvenOddAmount.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\10.EvenOddAmount\obj\Debug\net5.0\ref\10.EvenOddAmount.dll

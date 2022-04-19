@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\bin\Debug\net5.0\06.SumOfVowels.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\refint\06.SumOfVowels.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\06.SumOfVowels.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\06.SumOfVowels\obj\Debug\net5.0\ref\06.SumOfVowels.dll

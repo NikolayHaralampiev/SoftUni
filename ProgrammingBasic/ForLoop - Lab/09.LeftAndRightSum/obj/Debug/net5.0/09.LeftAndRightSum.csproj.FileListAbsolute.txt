@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\bin\Debug\net5.0\09.LeftAndRightSum.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\refint\09.LeftAndRightSum.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\09.LeftAndRightSum.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\09.LeftAndRightSum\obj\Debug\net5.0\ref\09.LeftAndRightSum.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.exe
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.deps.json
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.runtimeconfig.json
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\bin\Debug\net5.0\07.SumOfNumbers.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\refint\07.SumOfNumbers.dll
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.pdb
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\07.SumOfNumbers.genruntimeconfig.cache
+C:\Users\nikol\source\repos\ForLoops-Lab\07.SumOfNumbers\obj\Debug\net5.0\ref\07.SumOfNumbers.dll
