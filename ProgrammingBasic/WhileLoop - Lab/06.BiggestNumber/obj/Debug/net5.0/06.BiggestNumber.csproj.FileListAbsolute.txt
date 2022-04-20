@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\bin\Debug\net5.0\06.BiggestNumber.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\refint\06.BiggestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\06.BiggestNumber.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\06.BiggestNumber\obj\Debug\net5.0\ref\06.BiggestNumber.dll

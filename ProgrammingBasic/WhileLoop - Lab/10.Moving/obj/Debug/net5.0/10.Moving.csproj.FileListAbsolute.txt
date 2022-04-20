@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\bin\Debug\net5.0\10.Moving.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\refint\10.Moving.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\10.Moving.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\10.Moving\obj\Debug\net5.0\ref\10.Moving.dll

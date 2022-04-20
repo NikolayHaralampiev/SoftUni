@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\bin\Debug\net5.0\07.SmallestNumber.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\refint\07.SmallestNumber.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\07.SmallestNumber.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\07.SmallestNumber\obj\Debug\net5.0\ref\07.SmallestNumber.dll

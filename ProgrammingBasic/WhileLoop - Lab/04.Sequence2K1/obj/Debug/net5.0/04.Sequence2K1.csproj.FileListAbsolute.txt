@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\bin\Debug\net5.0\04.Sequence2K1.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\refint\04.Sequence2K1.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\04.Sequence2K1.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\04.Sequence2K1\obj\Debug\net5.0\ref\04.Sequence2K1.dll

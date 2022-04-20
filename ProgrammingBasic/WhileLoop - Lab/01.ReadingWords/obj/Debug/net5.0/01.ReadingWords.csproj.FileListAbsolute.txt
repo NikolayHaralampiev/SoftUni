@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\bin\Debug\net5.0\01.ReadingWords.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\refint\01.ReadingWords.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\01.ReadingWords.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\01.ReadingWords\obj\Debug\net5.0\ref\01.ReadingWords.dll

@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.exe
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.deps.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.runtimeconfig.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\bin\Debug\net5.0\09.GraduationPart2.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.AssemblyInfo.cs
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\refint\09.GraduationPart2.dll
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.pdb
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\09.GraduationPart2.genruntimeconfig.cache
+C:\Users\nikol\source\repos\WhileLoop-Lab\09.GraduationPart2\obj\Debug\net5.0\ref\09.GraduationPart2.dll
