@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.exe
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.deps.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\bin\Debug\net5.0\11.MultiplicationTable 2.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\refint\11.MultiplicationTable 2.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\11.MultiplicationTable 2.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\11.MultiplicationTable 2\obj\Debug\net5.0\ref\11.MultiplicationTable 2.dll

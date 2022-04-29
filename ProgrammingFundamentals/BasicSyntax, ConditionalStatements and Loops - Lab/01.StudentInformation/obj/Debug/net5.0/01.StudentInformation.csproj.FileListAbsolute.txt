@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.exe
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.deps.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\bin\Debug\net5.0\01.StudentInformation.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\refint\01.StudentInformation.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\01.StudentInformation.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\01.StudentInformation\obj\Debug\net5.0\ref\01.StudentInformation.dll

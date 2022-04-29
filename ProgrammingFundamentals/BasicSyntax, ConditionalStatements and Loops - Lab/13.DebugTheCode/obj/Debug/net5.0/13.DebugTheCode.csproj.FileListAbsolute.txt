@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.exe
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.deps.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\bin\Debug\net5.0\13.DebugTheCode.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\refint\13.DebugTheCode.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\13.DebugTheCode.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\13.DebugTheCode\obj\Debug\net5.0\ref\13.DebugTheCode.dll

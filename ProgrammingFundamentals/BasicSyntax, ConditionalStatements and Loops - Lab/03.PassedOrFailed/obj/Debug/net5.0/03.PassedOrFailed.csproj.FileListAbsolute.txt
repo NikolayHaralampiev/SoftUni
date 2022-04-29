@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.exe
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.deps.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\refint\03.PassedOrFailed.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\03.PassedOrFailed\obj\Debug\net5.0\ref\03.PassedOrFailed.dll

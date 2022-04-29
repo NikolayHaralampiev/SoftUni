@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.exe
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.deps.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\refint\09.SumOfOddNumbers.dll
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.pdb
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax,ConditionalStatements,Loops - Lab\09.SumOfOddNumbers\obj\Debug\net5.0\ref\09.SumOfOddNumbers.dll
