@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.exe
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.deps.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.runtimeconfig.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\bin\Debug\net5.0\10.LowerToUpper.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.AssemblyInfo.cs
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\refint\10.LowerToUpper.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\10.LowerToUpper.genruntimeconfig.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\10.LowerToUpper\obj\Debug\net5.0\ref\10.LowerToUpper.dll

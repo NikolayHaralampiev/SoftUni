@@ -1,0 +1,16 @@
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.exe
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.deps.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\ref\01.ConvertMetersToKilometers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\bin\Debug\net5.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.csproj.AssemblyReference.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\ref\01.ConvertMetersToKilometers.dll
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.pdb
+C:\Users\Shamana\source\repos\01.ConvertMetersToKilometers\01.ConvertMetersToKilometers\obj\Debug\net5.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
