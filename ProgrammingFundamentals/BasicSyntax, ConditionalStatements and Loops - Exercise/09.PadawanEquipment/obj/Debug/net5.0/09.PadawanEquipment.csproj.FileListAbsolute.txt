@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\bin\Debug\net5.0\09.PadawanEquipment.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\refint\09.PadawanEquipment.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\09.PadawanEquipment\obj\Debug\net5.0\ref\09.PadawanEquipment.dll

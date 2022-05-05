@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\bin\Debug\net5.0\01.Ages.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\refint\01.Ages.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\01.Ages.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\01.Ages\obj\Debug\net5.0\ref\01.Ages.dll

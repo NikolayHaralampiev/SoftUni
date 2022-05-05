@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\bin\Debug\net5.0\02.Division.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\refint\02.Division.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\02.Division.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\02.Division\obj\Debug\net5.0\ref\02.Division.dll

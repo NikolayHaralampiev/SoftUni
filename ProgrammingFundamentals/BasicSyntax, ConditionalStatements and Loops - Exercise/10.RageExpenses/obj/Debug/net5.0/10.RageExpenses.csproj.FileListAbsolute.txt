@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\bin\Debug\net5.0\10.RageExpenses.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\refint\10.RageExpenses.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\10.RageExpenses.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\10.RageExpenses\obj\Debug\net5.0\ref\10.RageExpenses.dll

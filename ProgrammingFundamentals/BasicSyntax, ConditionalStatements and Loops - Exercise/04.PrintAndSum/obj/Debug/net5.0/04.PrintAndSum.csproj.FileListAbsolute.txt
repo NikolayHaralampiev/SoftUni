@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\refint\04.PrintAndSum.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\04.PrintAndSum\obj\Debug\net5.0\ref\04.PrintAndSum.dll

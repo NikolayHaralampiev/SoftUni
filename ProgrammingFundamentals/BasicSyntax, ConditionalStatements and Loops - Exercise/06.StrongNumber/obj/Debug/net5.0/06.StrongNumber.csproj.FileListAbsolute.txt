@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.exe
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.deps.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfo.cs
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\refint\06.StrongNumber.dll
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.pdb
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.genruntimeconfig.cache
+C:\Users\nikol\source\repos\BasicSyntax, ConditionalStatements, Loops - Exercise\06.StrongNumber\obj\Debug\net5.0\ref\06.StrongNumber.dll
