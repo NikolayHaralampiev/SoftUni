@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\02.PoundsToDollars\\02.PoundsToDollars.csproj": {}
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\02.PoundsToDollars\\02.PoundsToDollars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\02.PoundsToDollars\\02.PoundsToDollars.csproj": {
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\02.PoundsToDollars\\02.PoundsToDollars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\02.PoundsToDollars\\02.PoundsToDollars.csproj",
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\02.PoundsToDollars\\02.PoundsToDollars.csproj",
         "projectName": "02.PoundsToDollars",
-        "projectPath": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\02.PoundsToDollars\\02.PoundsToDollars.csproj",
-        "packagesPath": "C:\\Users\\Shamana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\02.PoundsToDollars\\obj\\",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\02.PoundsToDollars\\02.PoundsToDollars.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\02.PoundsToDollars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shamana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

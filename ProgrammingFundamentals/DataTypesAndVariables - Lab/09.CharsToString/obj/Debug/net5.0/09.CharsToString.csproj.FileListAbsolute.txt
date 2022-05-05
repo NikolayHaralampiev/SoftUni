@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.exe
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.deps.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\bin\Debug\net5.0\09.CharsToString.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfo.cs
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\refint\09.CharsToString.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\09.CharsToString.genruntimeconfig.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\09.CharsToString\obj\Debug\net5.0\ref\09.CharsToString.dll

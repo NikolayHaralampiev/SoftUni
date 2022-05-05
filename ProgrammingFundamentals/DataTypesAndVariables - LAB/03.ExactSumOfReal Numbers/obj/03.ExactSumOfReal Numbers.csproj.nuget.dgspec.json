@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj": {}
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj": {
+    "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj",
         "projectName": "03.ExactSumOfReal Numbers",
-        "projectPath": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj",
-        "packagesPath": "C:\\Users\\Shamana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shamana\\source\\repos\\01.ConvertMetersToKilometers\\03.ExactSumOfReal Numbers\\obj\\",
+        "projectPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\03.ExactSumOfReal Numbers\\03.ExactSumOfReal Numbers.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikol\\Desktop\\GitHub\\SoftUni\\ProgrammingFundamentals\\DataTypesAndVariables - Lab\\03.ExactSumOfReal Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shamana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

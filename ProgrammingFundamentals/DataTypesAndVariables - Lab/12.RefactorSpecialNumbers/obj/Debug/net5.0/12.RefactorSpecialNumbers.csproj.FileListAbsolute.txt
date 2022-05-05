@@ -1,0 +1,16 @@
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.exe
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.deps.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\bin\Debug\net5.0\12.RefactorSpecialNumbers.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\refint\12.RefactorSpecialNumbers.dll
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.pdb
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\12.RefactorSpecialNumbers.genruntimeconfig.cache
+C:\Users\nikol\Desktop\GitHub\SoftUni\ProgrammingFundamentals\DataTypesAndVariables - Lab\12.RefactorSpecialNumbers\obj\Debug\net5.0\ref\12.RefactorSpecialNumbers.dll
